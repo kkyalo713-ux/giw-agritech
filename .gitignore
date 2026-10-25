@@ -5,3 +5,4 @@ dist/
 firebase/serviceAccount.json
 *.log
 .DS_Store
+firebase/seed/serviceAccount.json
